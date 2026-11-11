@@ -2,7 +2,7 @@
 
 # 🛡️ Assistente de IA para Segurança Digital - Projeto Motunui
 
-![Capa do Projeto Motunui](TCC_Motunui_1_2.jpg)
+![Capa do Projeto Motunui](TCC_Motunui_1.png)
 
 <p align="center">
   <b>Chatbot inteligente desenvolvido para orientar usuários sobre golpes digitais, fraudes, privacidade e uso seguro da internet.</b>
